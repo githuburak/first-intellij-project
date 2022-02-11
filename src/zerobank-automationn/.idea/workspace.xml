@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0c58398-d9f6-4be6-82c2-2f32598dcaff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../TestNGFromMaven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zerobank_cln/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zerobank_cln/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zerobank_cln/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new maven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new maven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new maven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seamless/src/test/java/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seamless/src/test/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seamless/src/test/java/runners/CukesRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seamless/src/test/java/step_definitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seamless/src/test/java/step_definitions/LoginStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seamless/src/test/java/step_definitions/LogoutStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seamless/src/test/java/utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seamless/src/test/java/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seamless/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seamless/src/test/resources/features/loginfunction.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seamless/src/test/resources/features/logout.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/pages/AccountActivityPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/pages/AccountSummaryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/pages/payBillsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/runners/CukesRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/runners/FailedTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/stepdefinitions/AccountActivityStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/stepdefinitions/AccountSummaryStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/stepdefinitions/FindTransactionStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/stepdefinitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/stepdefinitions/loginStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/stepdefinitions/payBillsStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/resources/features/accountActivity.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/resources/features/accountSummary.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/resources/features/findTransaction.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/resources/features/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/resources/features/payBills.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/resources/features/payee.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank_automation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank_automation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank_automation/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank_automation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank_automation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobankautomationB240" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EU7CucumberSelenium/src/test/java/com/vytrack/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EU7CucumberSelenium/src/test/java/com/vytrack/runners/CukesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EU7CucumberSelenium/src/test/java/com/vytrack/step_definitions/LoginStepDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EU7CucumberSelenium/src/test/java/com/vytrack/step_definitions/LoginStepDefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EU7CucumberSelenium/target/test-classes/com/vytrack/runners/CukesRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EU7CucumberSelenium/target/test-classes/com/vytrack/runners/CukesRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EU7CucumberSelenium/target/test-classes/features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../EU7CucumberSelenium/target/test-classes/features/login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EU7TestNGSelenium" beforeDir="false" afterPath="$PROJECT_DIR$/../EU7TestNGSelenium" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="250dxA3aW8LmGZfqxL7YwMeG0eh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0c58398-d9f6-4be6-82c2-2f32598dcaff" name="Changes" comment="" />
+      <created>1644668185565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644668185565</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

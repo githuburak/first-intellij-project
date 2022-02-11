@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d69b18b4-ed18-4d81-bf71-6359015a0828" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../TestNGFromMaven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zerobank_cln.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new maven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new maven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new maven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/pages/AccountActivityPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/pages/AccountSummaryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/runners/CukesRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/runners/FailedTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/stepdefinitions/AccountActivityNavigationSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/stepdefinitions/FindTransactionSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/stepdefinitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/java/com/zerobank/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/resources/features/AccountActivityNavigation.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zerobank-automation/src/test/resources/features/FindTransaction.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EU7CucumberSelenium/src/test/java/com/vytrack/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EU7CucumberSelenium/src/test/java/com/vytrack/runners/CukesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EU7CucumberSelenium/src/test/java/com/vytrack/step_definitions/LoginStepDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EU7CucumberSelenium/src/test/java/com/vytrack/step_definitions/LoginStepDefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EU7CucumberSelenium/target/test-classes/com/vytrack/runners/CukesRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EU7CucumberSelenium/target/test-classes/com/vytrack/runners/CukesRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EU7CucumberSelenium/target/test-classes/features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../EU7CucumberSelenium/target/test-classes/features/login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EU7TestNGSelenium" beforeDir="false" afterPath="$PROJECT_DIR$/../EU7TestNGSelenium" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="24xS3vY8eeDYO5RUA4rQREJZ3FH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d69b18b4-ed18-4d81-bf71-6359015a0828" name="Changes" comment="" />
+      <created>1644570551805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644570551805</updated>
+    </task>
+    <servers />
+  </component>
+</project>

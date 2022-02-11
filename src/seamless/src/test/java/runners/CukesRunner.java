@@ -1,5 +1,4 @@
-package com.vytrack.runners;
-
+package net.seamlessly.runners;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
@@ -8,15 +7,12 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(
         plugin = {"json:target/cucumber.json",
-        "html:target/default-html-reports",
-                "rerun:target/rerun.txt"
-        },
-
+                "html:target/cucumber-report.html"},
         features = "src/test/resources/features",
-        glue = "com/vytrack/step_definitions",
-        dryRun = true,
-        tags = "@wip"
-)
-public class CukesRunner{
+        glue = "net/seamlessly/step_definitions",
+        dryRun = false,
+        tags = ""
 
+)
+public class CukesRunner {
 }
